@@ -23,7 +23,7 @@
 
 ### Challenges Faced
 
-* Not that big , get little confused doing type conversion.
+* Initially confused about Python syntax and type conversion, but gained better understanding through practice.
 
 ### Tomorrow's Goal
 
