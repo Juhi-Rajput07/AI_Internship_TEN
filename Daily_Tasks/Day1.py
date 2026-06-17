@@ -33,12 +33,8 @@ print(type(str(num))) #str
 
 
 
-
-
 # MINI TASK  ( 15 MINUTES )
-
 # STUDENT PROFILE GENERATOR
-
 Name = input("Enter Your Name:")
 Age = int(input("Enter Your Age:"))
 College = input("Enter Your College Name:")
