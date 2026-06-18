@@ -29,3 +29,35 @@
 
 * Operators
 * Conditional Statements
+
+
+
+## Day 2
+
+### Topics Covered
+
+* Arithmetic Operators
+* Comparison Operators
+* Logical Operators
+* Conditional Statements (if, elif, else)
+
+### Practical Work
+
+* Performed arithmetic operations
+* Built Voting Eligibility Checker
+* Built Student Grade Calculator
+
+### Key Learnings
+
+* Comparison operators return True or False.
+* Conditional statements help programs make decisions.
+* Logical operators combine multiple conditions.
+
+### Challenges Faced
+
+* Nothing
+
+### Tomorrow's Goal
+
+* Loops and Iteration
+s
