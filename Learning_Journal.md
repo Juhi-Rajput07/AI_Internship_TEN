@@ -32,6 +32,7 @@
 
 
 
+
 ## Day 2
 
 ### Topics Covered
@@ -59,5 +60,4 @@
 
 ### Tomorrow's Goal
 
-* Loops and Iteration
-s
+* Loops and Iterations
