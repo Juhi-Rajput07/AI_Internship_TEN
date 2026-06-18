@@ -1,28 +1,28 @@
 #TASK1 (EXPERIMENT WITH ALL  ARITHMETIC OPERATORS)
-# a = 2
-# b = 3
-# print("Sum is", a+b)
-# print("2 mul by 3 is ", 2*3)
-# print("2 divide by 3 is ", 2/3)
-# print("2 power 3 is ", 2**3)
-# print("modulo od 2 and 3 is ", 2%3)
+a = 2
+b = 3
+print("Sum is", a+b)
+print("2 mul by 3 is ", 2*3)
+print("2 divide by 3 is ", 2/3)
+print("2 power 3 is ", 2**3)
+print("modulo od 2 and 3 is ", 2%3)
 
 
 #TASK2 (Take two numbers from the user)
-# num1 = int(input("Enter the first number:"))
-# num2 = int(input("ENnter the second number:"))
-# print("Addition :",num1 + num2)
-# print("Subtraction :",num1 - num2)
-# print("Multiplication :",num1 * num2)
-# print("Division :",num1 / num2)
+num1 = int(input("Enter the first number:"))
+num2 = int(input("ENnter the second number:"))
+print("Addition :",num1 + num2)
+print("Subtraction :",num1 - num2)
+print("Multiplication :",num1 * num2)
+print("Division :",num1 / num2)
 
 
 #TASK3 (TAKE USER'S AGE / VOTING ELLIGIBLITY CHECK)
-# age = int(input("Enter your age:"))
-# if age >= 18:
-#     print("Eligible to Vote")
-# else:
-#     print("NOt ELigible to Vote")
+age = int(input("Enter your age:"))
+if age >= 18:
+    print("Eligible to Vote")
+else:
+    print("NOt ELigible to Vote")
 
 
 
