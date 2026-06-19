@@ -1,6 +1,6 @@
 # AI Internship Learning Journal
 
-## Day 1
+## Day 1 (17 June 2026)
 
 ### Topic Covered
 
@@ -33,7 +33,7 @@
 
 
 
-## Day 2
+## Day 2 (18 June 2026)
 
 ### Topics Covered
 
@@ -61,3 +61,32 @@
 ### Tomorrow's Goal
 
 * Loops and Iterations
+
+
+
+
+## Day 3 (19 June 2026)
+
+### Topics Covered
+
+* Anaconda Installation
+* Jupyter Notebook
+* Code Cells and Markdown Cells
+
+### Practical Work
+
+* Installed Anaconda
+* Created first Jupyter Notebook
+* Practiced Python code inside notebook cells
+
+### Key Learnings
+
+* Jupyter Notebook allows combining code, output, and notes in one place.
+* It is widely used in Data Analytics and Machine Learning workflows.
+
+### Tomorrow's Goal
+
+* Lists
+* Tuples
+* Dictionaries
+* Sets
