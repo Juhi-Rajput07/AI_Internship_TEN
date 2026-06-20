@@ -90,3 +90,37 @@
 * Tuples
 * Dictionaries
 * Sets
+
+
+
+
+## Day 4 (20 june 2026)
+
+### Topics Covered
+
+* Lists
+* Tuples
+* Dictionaries
+* Sets
+
+### Practical Work
+
+* Created and accessed list elements
+* Worked with tuples
+* Stored data using dictionaries
+* Explored sets and duplicate removal
+
+### Mini Task
+
+* Student Information Dictionary
+
+### Key Learnings
+
+* Lists are mutable.
+* Tuples are immutable.
+* Dictionaries store data as key-value pairs.
+* Sets automatically remove duplicates.
+
+### Tomorrow's Goal
+
+* Loops (for, while)
