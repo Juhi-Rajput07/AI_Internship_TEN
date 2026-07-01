@@ -1,4 +1,4 @@
-# AI Internship Learning Journal
+# AI INTERNSHIP LEARNING JOURNAL
 
 ## Day 1 (17 June 2026)
 
@@ -124,3 +124,35 @@
 ### Tomorrow's Goal
 
 * Loops (for, while)
+
+
+
+
+# Phase 2 : Portal Roadmap
+
+## Week 1
+
+### Day 1 (1 July 2026)
+
+#### Objective
+Learn the fundamentals of NumPy for Data Science.
+
+#### Topics Covered
+- Introduction to NumPy
+- Creating NumPy arrays
+- Array properties (shape, ndim, size, dtype)
+- Indexing and Slicing
+- Basic arithmetic operations
+
+#### Practical Work
+- Completed NumPy practice in Jupyter Notebook.
+- Built a Student Marks mini project.
+
+#### Key Learning
+NumPy arrays support vectorized operations, allowing calculations on the entire array without using loops.
+
+#### Challenges
+Initially, I wasn't able to perform arithmetic operations on arrays, but after understanding vectorized operations, I completed the mini project successfully.
+
+#### Tomorrow's Goal
+Start learning Pandas and work with DataFrames.
