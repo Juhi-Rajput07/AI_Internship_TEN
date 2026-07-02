@@ -1,6 +1,6 @@
 # AI INTERNSHIP LEARNING JOURNAL
 
-## Foundation Phase
+# Foundation Phase
 
 ### Day 1 (17 June 2026)
 
@@ -130,6 +130,7 @@
 
 
 
+
 # AI Internship Portal Phase
 
 ## Week 1
@@ -158,3 +159,36 @@ Initially, I wasn't able to perform arithmetic operations on arrays, but after u
 
 #### Tomorrow's Goal
 Start learning Pandas and work with DataFrames.
+
+
+
+
+### Day 2 (2 July 2026)
+
+#### Objective
+Complete the remaining NumPy concepts and strengthen understanding of array operations.
+
+#### Topics Covered
+- Reshape
+- Flatten / Ravel
+- Copy vs View
+- Array Iteration
+- Stacking and Splitting
+- Broadcasting
+- Basic NumPy Functions
+
+#### Practical Work
+- Completed hands-on coding for all advanced NumPy concepts in Jupyter Notebook.
+- Practised each concept with my own examples.
+- Completed the Employee Salary Analysis mini project.
+
+#### Key Learnings
+- Learned how broadcasting performs operations efficiently without loops.
+- Understood the difference between Copy and View.
+- Learned to reshape and combine arrays for better data organization.
+
+#### Challenges
+- Initially found broadcasting and Copy vs View confusing, but understood them after practising with examples.
+
+#### Tomorrow's Goal
+Start learning Pandas basics, including Series, DataFrames, and reading CSV files.
