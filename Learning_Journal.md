@@ -192,3 +192,38 @@ Complete the remaining NumPy concepts and strengthen understanding of array oper
 
 #### Tomorrow's Goal
 Start learning Pandas basics, including Series, DataFrames, and reading CSV files.
+
+
+
+
+### Day 3 (3 July 2026)
+
+#### Objective
+Learn the fundamentals of Pandas and understand how to work with tabular datasets.
+
+#### Topics Covered
+- Introduction to Pandas
+- Series
+- DataFrame
+- Reading CSV files
+- head()
+- tail()
+- shape
+- columns
+- info()
+- describe()
+
+#### Practical Work
+- Created a Pandas notebook in Jupyter Lab.
+- Loaded the Titanic training dataset.
+- Explored the dataset using head(), tail(), shape, columns, info(), and describe().
+
+#### Key Learnings
+- Pandas makes it easy to work with structured datasets using DataFrames.
+- The initial step in data analysis is to understand the structure of the dataset before cleaning or modeling.
+
+#### Challenges
+- Understanding the different outputs of info() and describe() required careful observation.
+
+#### Tomorrow's Goal
+Complete the remaining dataset observations and begin data cleaning using Pandas.
