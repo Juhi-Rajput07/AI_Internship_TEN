@@ -227,3 +227,35 @@ Learn the fundamentals of Pandas and understand how to work with tabular dataset
 
 #### Tomorrow's Goal
 Complete the remaining dataset observations and begin data cleaning using Pandas.
+
+
+
+
+### Day 4 (4 July 2026)
+
+#### Objective
+Continue learning core Pandas operations used in data analysis.
+
+#### Topics Covered
+- Selecting Rows and Columns
+- loc and iloc
+- Filtering Data
+- Sorting Data
+- Duplicate Detection
+- Removing Duplicates
+- value_counts()
+
+#### Practical Work
+- Practised Pandas operations using the IPL dataset.
+- Explored different methods for selecting, filtering, and sorting data.
+- Worked with duplicate detection and frequency analysis.
+
+#### Key Learnings
+- Understood how Pandas simplifies data exploration and manipulation.
+- Learned different ways to access and filter data efficiently.
+
+#### Challenges
+- My concentration was lower today, so I decided to postpone a few remaining topics to tomorrow instead of rushing through them.
+
+#### Tomorrow's Goal
+Complete the remaining Pandas concepts (Missing Values, rename(), groupby()) and finish the Week 1 Titanic mini project.
