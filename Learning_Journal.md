@@ -259,3 +259,35 @@ Continue learning core Pandas operations used in data analysis.
 
 #### Tomorrow's Goal
 Complete the remaining Pandas concepts (Missing Values, rename(), groupby()) and finish the Week 1 Titanic mini project.
+
+
+
+
+### Day 5 (5 July 2026)
+
+#### Objective
+Complete the remaining Pandas concepts and apply them to a real-world dataset.
+
+#### Topics Covered
+- Missing Values
+- isnull() and notnull()
+- fillna() and dropna()
+- rename()
+- groupby()
+
+#### Practical Work
+- Completed the remaining Pandas concepts.
+- Continued hands-on practice using the IPL dataset.
+- Performed data analysis on the Titanic training dataset using Pandas.
+- Applied data inspection, cleaning, filtering, sorting, value_counts(), and groupby() operations.
+
+#### Key Learnings
+- Understood how missing values are identified and handled.
+- Learned how groupby() helps summarize data efficiently.
+- Gained confidence in exploring and analyzing datasets using Pandas.
+
+#### Challenges
+- Needed additional practice with groupby() to understand different aggregation operations.
+
+#### Tomorrow's Goal
+Revise Week 1 concepts and begin Exploratory Data Analysis (EDA) and Data Visualization.
