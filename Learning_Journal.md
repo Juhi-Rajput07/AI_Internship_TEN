@@ -291,3 +291,42 @@ Complete the remaining Pandas concepts and apply them to a real-world dataset.
 
 #### Tomorrow's Goal
 Revise Week 1 concepts and begin Exploratory Data Analysis (EDA) and Data Visualization.
+
+
+
+
+## Week 2
+
+### Day 1 (7 July 2026)
+
+#### Objective
+Understand the fundamentals of Exploratory Data Analysis (EDA) and its importance in the data analysis process.
+
+#### Topics Covered
+- What is EDA?
+- Why EDA is performed
+- Types of EDA
+- EDA Workflow
+- Introduction to Univariate and Bivariate Analysis
+
+#### Practical Work
+- Followed the EDA tutorial and performed hands-on coding alongside the instructor.
+- Practised the concepts while understanding the overall EDA workflow.
+
+#### Key Learnings
+- EDA helps in understanding the structure and quality of data before analysis or model building.
+- It is useful for identifying patterns, trends, missing values, outliers, and relationships between variables.
+
+#### Challenges
+- Since EDA is a broad topic, I need more practice with real datasets to build confidence.
+
+#### Dataset Used
+
+Dataset: Coaster Database (coaster_db.csv)
+
+Reason for choosing it:
+Used the dataset provided in the EDA tutorial to learn the fundamentals of Exploratory Data Analysis while following the instructor's hands-on implementation. This dataset helped me understand how to inspect, explore, and summarize real-world data before performing deeper analysis.
+
+#### Tomorrow's Goal
+Continue learning EDA by performing practical analysis on a dataset and begin creating visualizations.
+
