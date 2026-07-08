@@ -303,7 +303,6 @@ Understand the fundamentals of Exploratory Data Analysis (EDA) and its importanc
 - Since EDA is a broad topic, I need more practice with real datasets to build confidence.
 
 #### Dataset Used
-
 Dataset: Coaster Database (coaster_db.csv)
 
 Reason for choosing it:
