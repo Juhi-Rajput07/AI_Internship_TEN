@@ -5,7 +5,6 @@
 ### Day 1 (17 June 2026)
 
 #### Topic Covered
-
 * Introduction to Artificial Intelligence
 * Python Variables
 * Data Types
@@ -13,22 +12,18 @@
 * Type Conversion
 
 #### Practical Work
-
 * Practiced variables and data types
 * Created Student Profile Generator
 
 #### Key Learnings
-
 * Difference between AI, ML, and DL
 * input() returns data as string
 * Type conversion using int(), float(), and str()
 
 #### Challenges Faced
-
 * Initially confused about Python syntax and type conversion, but gained better understanding through practice.
 
 #### Tomorrow's Goal
-
 * Operators
 * Conditional Statements
 
@@ -38,30 +33,25 @@
 ### Day 2 (18 June 2026)
 
 #### Topics Covered
-
 * Arithmetic Operators
 * Comparison Operators
 * Logical Operators
 * Conditional Statements (if, elif, else)
 
 #### Practical Work
-
 * Performed arithmetic operations
 * Built Voting Eligibility Checker
 * Built Student Grade Calculator
 
 #### Key Learnings
-
 * Comparison operators return True or False.
 * Conditional statements help programs make decisions.
 * Logical operators combine multiple conditions.
 
 #### Challenges Faced
-
 * Nothing
 
 #### Tomorrow's Goal
-
 * Loops and Iterations
 
 
@@ -70,24 +60,20 @@
 ### Day 3 (19 June 2026)
 
 #### Topics Covered
-
 * Anaconda Installation
 * Jupyter Notebook
 * Code Cells and Markdown Cells
 
 #### Practical Work
-
 * Installed Anaconda
 * Created first Jupyter Notebook
 * Practiced Python code inside notebook cells
 
 #### Key Learnings
-
 * Jupyter Notebook allows combining code, output, and notes in one place.
 * It is widely used in Data Analytics and Machine Learning workflows.
 
 #### Tomorrow's Goal
-
 * Lists
 * Tuples
 * Dictionaries
@@ -99,32 +85,27 @@
 ### Day 4 (20 june 2026)
 
 #### Topics Covered
-
 * Lists
 * Tuples
 * Dictionaries
 * Sets
 
 #### Practical Work
-
 * Created and accessed list elements
 * Worked with tuples
 * Stored data using dictionaries
 * Explored sets and duplicate removal
 
 #### Mini Task
-
 * Student Information Dictionary
 
 #### Key Learnings
-
 * Lists are mutable.
 * Tuples are immutable.
 * Dictionaries store data as key-value pairs.
 * Sets automatically remove duplicates.
 
 #### Tomorrow's Goal
-
 * Loops (for, while)
 
 
@@ -295,6 +276,7 @@ Revise Week 1 concepts and begin Exploratory Data Analysis (EDA) and Data Visual
 
 
 
+
 ## Week 2
 
 ### Day 1 (7 July 2026)
@@ -330,3 +312,41 @@ Used the dataset provided in the EDA tutorial to learn the fundamentals of Explo
 #### Tomorrow's Goal
 Continue learning EDA by performing practical analysis on a dataset and begin creating visualizations.
 
+
+
+
+### Day 2 (8 July 2026)
+
+#### Objective
+Continue learning Exploratory Data Analysis (EDA) by exploring a real-world dataset and understanding data distributions through visualizations.
+
+#### Topics Covered
+- Data Exploration
+- Histograms
+- Count Plots
+- Distribution Analysis
+- Basic Data Insights
+
+#### Practical Work
+- Continued the EDA tutorial and coded alongside the instructor.
+- Explored the Coaster Database dataset using Pandas.
+- Analyzed numerical and categorical columns.
+- Created visualizations to understand the distribution of data.
+- Identified the most frequent locations and manufacturers using Pandas functions.
+
+#### Key Learnings
+- Visualizations make it easier to identify patterns and trends in data.
+- Histograms help understand numerical distributions, while count plots summarize categorical data.
+- EDA focuses on understanding data before applying machine learning models.
+
+#### Challenges
+- I need more practice interpreting visualizations and writing meaningful insights from them.
+
+#### Dataset Used
+Dataset: coaster_db.csv
+
+Reason for Choosing It:
+Used the same dataset as the tutorial to understand EDA concepts through hands-on practice and gain experience working with a real-world dataset.
+
+#### Tomorrow's Goal
+Continue EDA by learning box plots, outlier detection, correlation analysis, and heatmaps.
