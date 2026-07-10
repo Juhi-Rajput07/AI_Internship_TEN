@@ -388,7 +388,7 @@ Continue EDA by learning box plots, outlier detection, correlation analysis, and
 
 
 
-## Day 10 (10 July 2026)
+## Day 4 (10 July 2026)
 
 ### Topics Covered
 - Pair Plot (Multivariate Analysis)
