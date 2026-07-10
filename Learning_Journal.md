@@ -349,3 +349,79 @@ Used the same dataset as the tutorial to understand EDA concepts through hands-o
 
 #### Tomorrow's Goal
 Continue EDA by learning box plots, outlier detection, correlation analysis, and heatmaps.
+
+
+
+
+## Day 3 (9 July 2026)
+
+### Topics Covered
+- Box Plot
+- Scatter Plot
+- Correlation Matrix
+- Correlation Heatmap
+
+### Practical Work
+- Created a Box Plot to analyze the distribution of coaster speeds.
+- Identified the median, spread, and outliers in the Speed_mph column.
+- Created a Scatter Plot between Speed_mph and Height_Ft.
+- Calculated the correlation matrix for numerical features.
+- Visualized correlations using a Heatmap.
+
+### Key Learnings
+- Box plots help identify data spread and outliers.
+- Scatter plots help determine relationships between numerical variables.
+- Correlation values range from -1 to +1.
+- Heatmaps provide an easy visual representation of feature correlations.
+- Speed_mph and Height_Ft showed the strongest positive correlation in the dataset.
+
+### Challenges Faced
+- Understanding how to interpret box plots instead of just creating them.
+- Learning how to identify meaningful correlations from numerical values.
+- Interpreting the heatmap correctly.
+
+### Tomorrow's Goal
+- Learn Pair Plots for multivariate analysis.
+- Explore relationships between numerical and categorical variables.
+- Review missing values in the dataset.
+
+
+
+
+## Day 10 (10 July 2026)
+
+### Topics Covered
+- Pair Plot (Multivariate Analysis)
+- Pair Plot with Hue
+- Categorical vs Numerical Analysis
+- Missing Values Review
+- Dataset Insights
+
+### Practical Work
+- Created a pair plot using:
+  - Speed_mph
+  - Height_Ft
+  - Gforce
+  - Inversions
+- Analyzed relationships between multiple numerical features.
+- Created a pair plot using Type_Main as the hue to compare coaster types.
+- Reviewed missing values in the dataset using isna().sum().
+- Identified columns requiring preprocessing before model building.
+- Wrote observations and insights from the EDA process.
+
+### Key Learnings
+- Pair plots allow comparison of multiple numerical variables simultaneously.
+- Speed and Height show a strong positive relationship.
+- Steel roller coasters are the most common type in the dataset.
+- Missing values should be analyzed before deciding whether to fill or remove them.
+- EDA is not only about creating graphs but also about interpreting and communicating findings.
+
+### Challenges Faced
+- Interpreting relationships from pair plots instead of just generating them.
+- Understanding how to decide whether missing values should be filled, dropped, or investigated further.
+- Converting visual observations into meaningful insights.
+
+### Tomorrow's Goal
+- Perform a complete independent EDA on a new dataset.
+- Apply all EDA techniques learned so far without following a tutorial.
+- Write clear observations and insights for every visualization.
